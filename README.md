@@ -2,4 +2,4 @@
 50th bistek javascript library
 
 ### also uh
-this repo doubles as a template for now until idk official release
+ye to use it just clone this repository and get cooking in index.js
